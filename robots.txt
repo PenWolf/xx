@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /workshop
+Disallow: /workshop/stockers
+Disallow: /workshop/languages
+Disallow: /prevents
